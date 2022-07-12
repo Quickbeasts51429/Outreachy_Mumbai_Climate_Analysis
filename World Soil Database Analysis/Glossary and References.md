@@ -20,7 +20,7 @@ Find the complete description about the dataset along with the extensive list of
 | S_CLAY | Subsoil Clay Fraction | % wt |
 | S_CEC_CLAY | Subsoil CEC (clay) | cmol/kg |
 | S_BULK_DEN | Subsoil Bulk Density | kg/dm3 |
-| ROOTS | code  | Obstacles to Roots |
+| ROOTS | Obstacles to Roots  | code |
 | REF_DEPTH | Reference depth of the soil unit | Default value : 100 cm |
 | MU_GLOBAL | The Global Mapping Unit identifier (4-byte integer) provides the link between the GIS layer and the attribute database. | - |
 | ISSOIL | (Flag for non-soil units) | - |
